@@ -31,7 +31,8 @@ Después de generar el ticket de compra, se enviará al usuario un correo electr
 -         Debe ser hosteado en Heroku 
 
 
-
+<h2>TRELLO</h2>
+https://trello.com/b/rUaDCQ9k/berrecommerce
 
 
 <h2>COLABORADORES</h2>
