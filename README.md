@@ -29,3 +29,17 @@ Si se intenta agregar productos al carrito y no se cuenta con una sesión inicia
 -  Una vez realizado el pago, se debe generar número de ticket de compra y almacenar la información de la compra en una tabla de BD llamada compras y asociarla a los productos que son parte de la compra, además de almacenar la fecha de compra, el cliente, el monto total, etc. 
 Después de generar el ticket de compra, se enviará al usuario un correo electrónico con la información detallada de la compra realizada.
 -         Debe ser hosteado en Heroku 
+
+
+
+
+
+<h2>COLABORADORES</h2>
+Gabriel Cuello https://github.com/Palixer
+<br>
+Lucia Saederup https://github.com/LuciaSaederup
+<br>
+Nadia Matsumoto https://github.com/naimatsu
+<br>
+Ibrian Festorazzi https://github.com/Mieczys
+
